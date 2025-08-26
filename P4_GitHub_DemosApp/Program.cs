@@ -10,6 +10,8 @@ namespace P4_GitHub_DemosApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Welcome To GitHub account");
+            Console.WriteLine("Welcome To Deloitte");
         }
     }
 }
